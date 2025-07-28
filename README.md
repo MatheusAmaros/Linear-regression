@@ -47,7 +47,7 @@ Para explorar este projeto, você precisará ter o **Jupyter Notebook** (ou Jupy
 
 Aqui está um exemplo do gráfico que você verá, mostrando os dados e a linha de regressão:
 
-<img width="554" height="432" alt="image" src="https://github.com/user-attachments/assets/b8b77d8c-6358-4de1-aa58-ebbba00b4784" />
+<img width="833" height="548" alt="image" src="https://github.com/user-attachments/assets/7cc558d1-927b-4de6-adde-48351bbd65ba" />
 
 -----
 
